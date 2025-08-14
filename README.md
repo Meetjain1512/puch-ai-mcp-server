@@ -52,7 +52,6 @@ Your server includes:
 ## 🚀 Running the Server
 To start your server:
 ```powershell
-cd "c:\Users\Meet\Desktop\ALL\puch ai"
 python dummy.py
 ```
 
